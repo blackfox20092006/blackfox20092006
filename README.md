@@ -1,25 +1,25 @@
 ## Hi there 👋 I'm Hoàng Quang Nhân or blackfox20092006 🦊
-✨ _Welcome to my digital den_ ✨  
+✨ _Welcome to my digital den_ ✨
+
 Here’s a quick peek into who I am:
-- 🔭 I’m currently working on:
-      -🖥️  Developing softwares (backend)
-      -🤖  Automation scripts
-     ⚛️🧠 Quantum Machine Learning (QML)
-- 🌱 I’m currently learning:  
-     -🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)  
-- 👯 I’m looking to collaborate on:  
-     -🧩 Backend-focused open-source projects
-     -📚 Educational tech
-- 🤔 I’m looking for help with:  
-     -📈 Improving backend scalability
-     -🗄️ Database performance tuning
-     -☁️ Cloud deployment
-- 📫 How to reach me:  
+
+🔭 I’m currently working on: 
+- 🖥️ Developing softwares (backend)
+- 🤖 Automation scripts
+- ⚛️🧠 Quantum Machine Learning (QML) 
+
+🌱 I’m currently learning:  
+- 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)  
+
+👯 I’m looking to collaborate on:  
+- 🧩 Backend-focused open-source projects
+- 📚 Educational tech
+
+📫 How to reach me:  
   -📧 Email: xxhoangquangnhanxx@gmail.com  
   -🔗 ORCID: [https://orcid.org/0009-0003-1597-6890](https://orcid.org/0009-0003-1597-6890)
-  -📍 Based in Ho Chi Minh City, Vietnam
-    
 ---
+
 ### 🌟 Highlight Projects
 - 🔗 [Phần mềm quản lý văn bản](https://github.com/blackfox20092006/phanmemquanlyvb):  
   A doc management tool for SMEs and government offices  
