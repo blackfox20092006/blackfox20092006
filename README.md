@@ -21,16 +21,17 @@ Here’s a quick peek into who I am:
 ---
 
 ### 🌟 Highlight Projects
-- 🔗 [Phần mềm quản lý văn bản](https://github.com/blackfox20092006/phanmemquanlyvb):  
-  A doc management tool for SMEs and government offices  
-  `Role`: Team Leader, Backend Dev  
-  `Tech`: Python, tree-based data structure + DB
 - 🔗 [Weather Forecast Chatbot AI](https://github.com/blackfox20092006/weatherforecastbot_source):  
   Friendly chatbot with weather prediction  
   `Tech`: Python + AI model training
 - 🔗 [Cyber Safety AI for Kids](https://github.com/blackfox20092006/Tech-Fusion-X):  
   Helps children stay safe online with intelligent filters & chatbot  
+  `Role`: Team Leader, Backend Dev
   `Tech`: Python + JS + LLM integration
+- 🔗 [Phần mềm quản lý văn bản](https://github.com/blackfox20092006/phanmemquanlyvb):  
+  A doc management tool for SMEs and government offices  
+  `Role`: Team Leader, Backend Dev  
+  `Tech`: Python, tree-based data structure + DB
 - 🔗 [Auto 9:16 Video Tool](https://github.com/blackfox20092006/auto9-16video):  
   A utility for MMO content creators to auto-format videos  
   `Tech`: Python + video editing libs (100–150 active users!)
