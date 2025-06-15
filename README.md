@@ -16,8 +16,8 @@ Here’s a quick peek into who I am:
 - 📚 Educational tech
 
 📫 How to reach me:  
-  -📧 Email: xxhoangquangnhanxx@gmail.com  
-  -🔗 ORCID: [https://orcid.org/0009-0003-1597-6890](https://orcid.org/0009-0003-1597-6890)
+- 📧 Email: xxhoangquangnhanxx@gmail.com
+- 🔗 ORCID: [https://orcid.org/0009-0003-1597-6890](https://orcid.org/0009-0003-1597-6890)
 ---
 
 ### 🌟 Highlight Projects
