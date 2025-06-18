@@ -5,7 +5,7 @@
 
 Here’s a quick peek into who I am:
 
-🔭 I’m currently working on: 
+🔭 I’m interesting in: 
 - 🖥️ Developing softwares (backend)
 - 🤖 Automation scripts
 - ⚛️🧠 Quantum Machine Learning (QML) 
