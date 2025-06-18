@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Hoàng Quang Nhân or blackfox20092006 🦊
+👩‍🔬 I'm an undergraduated reasearch assistant at [AITA LAB](https://aita-lab.github.io)
+
 ✨ _Welcome to my digital den_ ✨
 
 Here’s a quick peek into who I am:
@@ -9,7 +11,8 @@ Here’s a quick peek into who I am:
 - ⚛️🧠 Quantum Machine Learning (QML) 
 
 🌱 I’m currently learning:  
-- 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)  
+- 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)
+
 
 👯 I’m looking to collaborate on:  
 - 🧩 Backend-focused open-source projects
