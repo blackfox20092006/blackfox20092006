@@ -18,9 +18,10 @@ Here’s a quick peek into who I am:
 - 🧩 Backend-focused open-source projects
 - 📚 Educational tech
 
-📫 How to reach me:  
-- 📧 Email: xxhoangquangnhanxx@gmail.com
-- 🔗 ORCID: [https://orcid.org/0009-0003-1597-6890](https://orcid.org/0009-0003-1597-6890)
+📫 How to reach me: 
+
+[![Email Badge](https://img.shields.io/badge/-xxhoangquangnhanxx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:xxhoangquangnhanxx@gmail.com)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-blackfox20092006-16a085?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0003-1597-6890)
 ---
 
 ### 🌟 Highlight Personal Projects
