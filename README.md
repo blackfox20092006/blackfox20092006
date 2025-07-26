@@ -10,6 +10,7 @@ Here’s a quick peek into who I am:
 - 🤖 Automation scripts
 - ⚛️🧠 Quantum Machine Learning (QML)
 - ❤️ Competitive Programming
+- 👁️ Computer Vision
 
 🌱 I’m currently learning:  
 - 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)
@@ -18,6 +19,41 @@ Here’s a quick peek into who I am:
 👯 I’m looking to collaborate on:  
 - 🧩 Backend-focused open-source projects
 - 📚 Educational tech
+
+
+### 🧠 Skills & Frameworks
+
+#### 💻 Programming Languages  
+- **Python** 🐍 – Main language (automation, backend, AI, CP(PyPy 64 bit))  
+- **Bash/Shell** 🐧 – Automation scripts 
+- **SQL** – Relational DB management  
+
+#### 🧰 Frameworks & Libraries  
+- **Flask**, **FastAPI** 
+- **OpenCV**, **Mediapipe** 
+- **TensorFlow**, **PyTorch**, **scikit-learn**
+- **Qiskit**, **PennyLane**, **BlueQubit**
+- **MoviePy**, **FFmpeg**
+- **BeautifulSoup**, **Selenium**
+
+#### 🗃️ Database & Tools  
+- **SQLite**, **MySQL**
+- **MongoDB**
+- **Git**, **GitHub** 
+- **LaTeX**
+
+#### 🧠 I’m familiar with: 
+- 🧩 RESTful API design, MVC architecture  
+- 🧠 OOP, FP  
+- ⚙️ Async programming (async/await)  
+- 🧪 ML workflows: preprocess → train → evaluate  
+- 🔬 Quantum: design circuits & hybrid models  
+- 👁️ CV: image processing, detection, classification,... 
+- 🕷️ Web scraping & headless browser tricks, simulating real user interactions,...
+- 🧮 CP: common algorithms(greedy, bitmask, dynamic programming,...) and data structures (linked list, queue, stack, tree such as bst/avl,...)
+- 🚀 CI/CD basics, Git flow
+
+---
 
 📫 How to reach me: 
 
