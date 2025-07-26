@@ -88,4 +88,10 @@ Here’s a quick peek into who I am:
 - 🏆 2023: Top 1 with 500/500 points in NAI Challenge (semifinal of HueICT)
 - 👾 2016–now: Competitor in Codeforces & local STEM/English contests
 ---
+
+This is my CV if you're interested (or [click here](https://pdfhost.io/v/QcnkXS4D3b_CV_Nhan_Hoang_Quang)):
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/a20f9d07-aace-4dea-8a1f-d74f9cbac9c3" />
+
+
 Let’s build something awesome together 💫  
