@@ -89,9 +89,9 @@ Here’s a quick peek into who I am:
 - 👾 2016–now: Competitor in Codeforces & local STEM/English contests
 ---
 
-This is my CV if you're interested (or [click here](https://pdfhost.io/v/QcnkXS4D3b_CV_Nhan_Hoang_Quang)):
+This is my CV if you're interested (or [click here](https://pdfhost.io/v/bcNzLFbPF6_CV_Nhan_Hoang_Quang)):
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/a20f9d07-aace-4dea-8a1f-d74f9cbac9c3" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/afe4154b-371d-4065-a937-d0f2fe1d165f" />
 
 
 Let’s build something awesome together 💫  
