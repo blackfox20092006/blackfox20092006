@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hoàng Quang Nhân or blackfox20092006 🦊
 👩‍🔬 I'm an undergraduated reasearch assistant at [AITA LAB](https://aita-lab.github.io) 
 
-If you're interested in my CV, you can [click here](https://blackfox20092006.github.io) to see more.
+If you're interested in my CV, you can [click here](https://blackfox20092006.github.io) or [here](https://blackfox20092006.github.io/CV_Nhan_Hoang_Quang.pdf) to see more.
 
 ✨ _Welcome to my digital den_ ✨
 
