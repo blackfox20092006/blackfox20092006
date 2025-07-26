@@ -8,7 +8,8 @@ Here’s a quick peek into who I am:
 🔭 I’m interesting in: 
 - 🖥️ Developing softwares (backend)
 - 🤖 Automation scripts
-- ⚛️🧠 Quantum Machine Learning (QML) 
+- ⚛️🧠 Quantum Machine Learning (QML)
+- ❤️ Competitive Programming
 
 🌱 I’m currently learning:  
 - 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)
