@@ -15,10 +15,14 @@ Here’s a quick peek into who I am:
 🌱 I’m currently learning:  
 - 🎓 Artificial Intelligence Bachelor at FPT University (2024–2027)
 
+🌱 I’m currently researching on:
+- ⚛️🧠 Quantum Machine Learning for image classification tasks
+
 
 👯 I’m looking to collaborate on:  
 - 🧩 Backend-focused open-source projects
 - 📚 Educational tech
+- ❤️ Competitive Programming contests
 
 
 ### 🧠 Skills & Frameworks
@@ -47,7 +51,7 @@ Here’s a quick peek into who I am:
 - 🧠 OOP, FP  
 - ⚙️ Async programming (async/await)  
 - 🧪 ML workflows: preprocess → train → evaluate  
-- 🔬 Quantum: design circuits & hybrid models  
+- 🔬 Quantum: design quantum circuits & hybrid models, quantum transfer learning  
 - 👁️ CV: image processing, detection, classification,... 
 - 🕷️ Web scraping & headless browser tricks, simulating real user interactions,...
 - 🧮 CP: common algorithms(greedy, bitmask, dynamic programming,...) and data structures (linked list, queue, stack, tree such as bst/avl,...)
