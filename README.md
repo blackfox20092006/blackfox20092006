@@ -76,7 +76,7 @@ Here’s a quick peek into who I am:
 ### 🌟 Highlight Team/Contest Projects
 - 🔗 STEAMHacks 2023 (STEM For Vietnam) [Cyber Safety AI for Kids](https://github.com/blackfox20092006/Tech-Fusion-X):  
   Helps children stay safe online with intelligent filters & chatbot  
-  `Role`: Team Leader, Backend Dev
+  `Role`: Team Leader, Backend Dev  
   `Tech`: Python + JS + LLM integration
 - 🔗 Daily hackathon organized by the Ho Chi Minh City Youth Union [Phần mềm quản lý văn bản](https://github.com/blackfox20092006/phanmemquanlyvb):  
   A doc management tool for SMEs and government offices  
