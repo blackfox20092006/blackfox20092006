@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Hoàng Quang Nhân or blackfox20092006 🦊
-👩‍🔬 I'm an undergraduated reasearch assistant at [AITA LAB](https://aita-lab.github.io)
+👩‍🔬 I'm an undergraduated reasearch assistant at [AITA LAB](https://aita-lab.github.io) 
+
+If you're interested in my CV, you can [click here](https://blackfox20092006.github.io) to see more.
 
 ✨ _Welcome to my digital den_ ✨
 
@@ -88,10 +90,5 @@ Here’s a quick peek into who I am:
 - 🏆 2023: Top 1 with 500/500 points in NAI Challenge (semifinal of HueICT)
 - 👾 2016–now: Competitor in Codeforces & local STEM/English contests
 ---
-
-This is my CV if you're interested (or [click here](https://pdfhost.io/v/jQ9qxXmpqu_CV_Nhan_Hoang_Quang)):
-
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f8575b8e-d15a-445a-af3c-e8c67891d11e" />
-
 
 Let’s build something awesome together 💫  
